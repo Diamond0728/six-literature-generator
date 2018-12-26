@@ -32,10 +32,7 @@ def searchInBook(keyword):
 
 
 def addText(keyword, sentence):
-    return '说到 "'+keyword+'" ，我就想起 "'+sentence+'" ，明年年初，中美合拍的西游记即将正式开机，我扮演美猴王孙悟空，我会用美猴王艺术形象努力创造一个正能量的形象，文体两开花，希望大家多多关注。'
-
-
-        
+    return '说到 "'+keyword+'" ，我就想起 "'+sentence+'" ，明年年初，中美合拍的西游记即将正式开机，我继续扮演美猴王孙悟空，我会用美猴王艺术形象努力创造一个正能量的形象，文体两开花，希望大家多多关注。'
 
 
 def generator(keyword):
